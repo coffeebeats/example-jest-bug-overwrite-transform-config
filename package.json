@@ -1,0 +1,10 @@
+{
+  "name": "example-jest-bug-overwrite-transform-config",
+  "packageManager": "yarn@3.3.1",
+  "scripts": {
+    "test": "jest --no-cache"
+  },
+  "dependencies": {
+    "jest": "29.3.1"
+  }
+}
