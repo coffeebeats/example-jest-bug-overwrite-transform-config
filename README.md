@@ -1,5 +1,7 @@
 # example-jest-bug-overwrite-transform-config
 
+> NOTE: This bug [#13769](https://github.com/facebook/jest/issues/13769) was addressed in [#13770](https://github.com/facebook/jest/pull/13770).
+
 ## Explanation
 
 This example repository demonstrates a bug in `jest` (as of version `29.3.1`).
